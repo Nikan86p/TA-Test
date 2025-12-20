@@ -14,6 +14,7 @@ def Average(txt):
     lenght = len(Num_list)
     print(f"The lenght of list: {lenght}")
     for i in Num_list:
+        # x+=i
         x = a + i
         a = x
 
